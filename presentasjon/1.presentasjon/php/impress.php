@@ -13,4 +13,5 @@
 <?php include('impress-html/06-brukergrupper-informasjonsbehov.html'); ?>
 
 <?php include('static/hint'); ?>
+
 </div>

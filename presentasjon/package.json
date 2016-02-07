@@ -1,0 +1,27 @@
+{
+  "name": "innlevering3",
+  "version": "1.0.0",
+  "description": "Skoleprosjekt i WEB1000 - 2016",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "traktern",
+    "prosjekt",
+    "impress.js",
+    "html",
+    "js",
+    "gulp",
+    "node",
+    "school"
+  ],
+  "author": "KRI - KRI",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.0",
+    "gulp-shell": "^0.5.2",
+    "del" : ""
+  }
+}

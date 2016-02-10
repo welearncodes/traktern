@@ -6,12 +6,14 @@
 
 <?php include('impress-html/03-utviklingsmetode.html'); ?>
 
-<?php include('impress-html/04-prosjektmål.html'); ?>
+<?php include('impress-html/04-prosjektmaal.html'); ?>
 
-<?php include('impress-html/05-risikoplan.html'); ?>
+<?php include('impress-html/05-risiko.html'); ?>
 
 <?php include('impress-html/06-brukergrupper-informasjonsbehov.html'); ?>
 
-<?php include('static/hint'); ?>
+<?php include('impress-html/07-kilder.html'); ?>
+
+<?php include('static/hint.html'); ?>
 
 </div>

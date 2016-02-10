@@ -27,7 +27,7 @@ gulp.task('copy', function() {
 });
 
 gulp.task('watch', function () {
-  gulp.watch(['1.presentasjon/*.*','1.presentasjon/impress-html/*.*'], ['copy']);
+  gulp.watch(['1.presentasjon/*.*','1.presentasjon/impress-html/*.*','1.presentasjon/css/*.*'], ['copy']);
 });
 
 gulp.task('default', ['copy', 'watch','browser-sync']);

@@ -264,8 +264,8 @@ a:focus {
 
 .step {
     position: relative;
-    width: 900px;
-    padding: 40px;
+    width: 1200px;
+    padding: 20px;
     margin: 20px auto;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -818,6 +818,18 @@ a:focus {
     font-size: 33px;
 }
 
+.list-uu {
+    list-style-type: circle;
+    margin: 1em;
+}
+
+.list-uu > li {
+    font-size: 30px;
+}
+
 .title {
     font-size: 100px;
+}
+.title-uu {
+    font-size: 80px;
 }

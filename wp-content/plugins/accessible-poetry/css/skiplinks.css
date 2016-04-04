@@ -1,0 +1,45 @@
+/* line 4, ../sass/skiplinks.scss */
+#acp_skiplinks {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  height: 0;
+}
+/* line 10, ../sass/skiplinks.scss */
+#acp_skiplinks li a {
+  display: block;
+  height: 48px;
+  font-size: 15px !important;
+  background: #4169E1;
+  color: white;
+  padding: 0 40px;
+  text-align: center;
+  line-height: 48px;
+  position: fixed;
+  z-index: 99999;
+  left: 15px;
+  top: -68px;
+  margin-left: 15px;
+  text-transform: capitalize;
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  transition: all 1s ease;
+}
+/* line 27, ../sass/skiplinks.scss */
+#acp_skiplinks li a:focus {
+  top: 15px;
+  outline: none;
+  text-decoration: none;
+}
+/* line 36, ../sass/skiplinks.scss */
+#acp_skiplinks.left li a {
+  left: 15px;
+  margin-left: auto;
+}
+/* line 42, ../sass/skiplinks.scss */
+#acp_skiplinks.right li a {
+  right: 15px;
+  margin-left: auto;
+}

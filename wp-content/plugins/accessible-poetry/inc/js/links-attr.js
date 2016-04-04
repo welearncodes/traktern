@@ -1,0 +1,1 @@
+jQuery(document).ready(function(t){t("a[title]").each(function(){var e=t(this);e.attr("aria-label",e.attr("title")).removeAttr("title")})});

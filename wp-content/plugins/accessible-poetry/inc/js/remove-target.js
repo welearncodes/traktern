@@ -1,0 +1,1 @@
+jQuery(document).ready(function(t){t(document).ready(function(){t('a[target="_blank"]').removeAttr("target")})});

@@ -1,0 +1,135 @@
+#acp-fontsizer-customtags input {
+  width: 80%;
+}
+#acp_missing_alts_platform img.acp-thumb {
+  max-width: 54px;
+  height: auto;
+}
+
+.acp-intro {
+	background-image: url('../img/wpcover.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+}
+#acp-top-nav a {
+	display: inline-block;
+	width: 98px;
+	text-align: center;
+	padding: 15px 5px;
+	color: white;
+	font-size: 14px;
+	font-weight: 700;
+	text-decoration: none;
+}
+#acp-top-nav a img {
+	max-height: 32px;
+	width: auto;
+}
+.meta-row {
+	display: flex;
+	width: 100%;
+}
+#wpbody-content #accessible-poetry .metabox-holder {
+	width: 72%;
+	margin-left: 1%;
+	flex-grow: 1;
+	padding-top: 0;
+}
+#acp-facebook {
+	width: 25%;
+	flex-grow: 1;
+}
+#acp-facebook h3.ui-sortable-handle {
+	font-size: 14px;
+    padding: 8px 12px;
+    margin: 0;
+    line-height: 1.4;
+}
+#acp-facebook p {
+	padding: 2px 12px;
+}
+#acp-top-nav a.author {
+	background-color: #20A39E;
+}
+#acp-top-nav a.plugin {
+	background-color: #EF5B5B;
+}
+#acp-top-nav a.rate {
+	background-color: #FF784F;
+}
+#acp-top-nav a span {
+	display: block;
+}
+#accessible-poetry h1 {
+  line-height: 2;
+  margin: 0;
+  font-size: 36px;
+  font-weight: 300;
+}
+#accessible-poetry h3 {
+  border-bottom: 1px solid #eee;
+}
+#accessible-poetry .info-text {
+  background: #fafafa;
+  box-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.06);
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  margin: 12px -12px 12px;
+  padding: 12px;
+}
+#accessible-poetry .acp_contrast_add-wrap {
+  display: none;
+}
+/* line 33, ../sass/admin-style.scss */
+#accessible-poetry .acp_contrast_add-wrap input {
+  width: 100%;
+}
+
+/* line 38, ../sass/admin-style.scss */
+#acp-skiplinks-styles,
+.acp_skiplinks_home-info {
+  display: none;
+}
+
+/* line 42, ../sass/admin-style.scss */
+.acp-field-wrap {
+  margin: 5px 0;
+}
+
+/* line 45, ../sass/admin-style.scss */
+.acp-field {
+  padding: 10px 15px 30px;
+  background-color: #fff;
+  border-radius: 3px;
+  overflow: hidden;
+  box-shadow: 0 0 2px 1px #ccc;
+  margin-bottom: 15px;
+}
+/* line 52, ../sass/admin-style.scss */
+.acp-field p.lead {
+  font-size: 16px;
+}
+/* line 55, ../sass/admin-style.scss */
+.acp-field input[type=checkbox] {
+  width: 20px;
+  height: 20px;
+}
+/* line 59, ../sass/admin-style.scss */
+.acp-field label {
+  cursor: default;
+}
+/* line 62, ../sass/admin-style.scss */
+.acp-field input[type=checkbox]:checked:before {
+  font-size: 24px;
+  line-height: 26px;
+}
+
+/* line 67, ../sass/admin-style.scss */
+.plugin-version span {
+  display: inline-block;
+  background: #F76F8E;
+  border-radius: 3px;
+  padding: 3px 8px;
+  color: white;
+}

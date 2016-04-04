@@ -1,0 +1,1 @@
+jQuery(document).ready(function(t){t("img").each(function(){t(this).attr("alt")||t(this).attr("alt"," ")})});

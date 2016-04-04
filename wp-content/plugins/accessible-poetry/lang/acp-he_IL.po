@@ -1,0 +1,549 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-01-25 11:34+0200\n"
+"PO-Revision-Date: 2016-01-25 11:38+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: lang\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: inc/acp_imagealt.php:81
+msgid "Missing ALT's"
+msgstr "תמונות ללא טקסט חלופי"
+
+#: inc/acp_imagealt.php:85
+msgid "ID"
+msgstr "מזהה"
+
+#: inc/acp_imagealt.php:86
+msgid "Thumbnail"
+msgstr "תמונה ממוזערת"
+
+#: inc/acp_imagealt.php:87
+msgid "Image Name"
+msgstr "שם התמונה"
+
+#: inc/acp_imagealt.php:88
+msgid "Actions"
+msgstr "פעולות"
+
+#: inc/acp_imagealt.php:97
+msgid "Thumbnail of"
+msgstr "תמונה ממוזערת של"
+
+#: inc/acp_imagealt.php:101
+msgid "Edit Image"
+msgstr "עריכת התמונה"
+
+#: inc/acp_imagealt.php:108
+msgid "Congratulation! You don't have images without ALT text."
+msgstr "מזל-טוב! אין לך תמונות ללא טקסט חלופי."
+
+#: inc/acp_panel.php:125
+msgid "Basic Accessibility tools for WordPress"
+msgstr "כלי נגישות בסיסיים לוורדפרס"
+
+#: inc/acp_panel.php:131
+msgid "Author"
+msgstr "יוצר התוסף"
+
+#: inc/acp_panel.php:135
+msgid "Plugin Page"
+msgstr "עמוד התוסף"
+
+#: inc/acp_panel.php:139
+msgid "Rate Us"
+msgstr "דרג/י את התוסף"
+
+#: inc/acp_panel.php:153 inc/acp_panel.php:325
+msgid "General"
+msgstr "כללי"
+
+#: inc/acp_panel.php:156
+msgid "Language"
+msgstr "שפה"
+
+#: inc/acp_panel.php:159
+msgid "Add language attribute to the html tag."
+msgstr "הוספת תכונת השפה לתגית html"
+
+#: inc/acp_panel.php:162
+msgid "Images"
+msgstr "תמונות"
+
+#: inc/acp_panel.php:165
+msgid "Force using ALT on all images."
+msgstr "הוספת ALT לכל התמונות שאין להם תכונה זו"
+
+#: inc/acp_panel.php:169
+msgid "Replacement for the image ALT"
+msgstr "תחלופת מלל עבור טקסט חלופי לתמונות שלא הוזן עבורן טקסט חלופי"
+
+#: inc/acp_panel.php:172
+msgid "None"
+msgstr "ללא"
+
+#: inc/acp_panel.php:176
+msgid "Use attachment title as ALT for images with no alt"
+msgstr "השתמש בכותרת התמונה עבור טקסט חלופי לתמונות שאין להן טקסט חלופי"
+
+#: inc/acp_panel.php:180
+msgid "Use attachment description as ALT for images with no alt"
+msgstr "השתמש בתיאור התמונה עבור טקסט חלופי לתמונות שאין להן טקסט חלופי"
+
+#: inc/acp_panel.php:184
+msgid "Links"
+msgstr "קישורים"
+
+#: inc/acp_panel.php:188
+msgid "Add role=\"link\" to all the &lt;a&gt; tag."
+msgstr "הוספת role‪=‬link לכל תגיות הקישורים"
+
+#: inc/acp_panel.php:192
+msgid ""
+"Force Open links in current tab (Remove the \"target\" attribute from all "
+"links)."
+msgstr "מניעת פתיחה של קישורים בכרטיסיה חדשה"
+
+#: inc/acp_panel.php:196
+msgid "Change all title attributes on links to aria-label."
+msgstr "שינוי התכונה title ל-aria‪-‬label עבור כל הקישורים"
+
+#: inc/acp_panel.php:200
+msgid "Add outline to all links on focus mode."
+msgstr "הוספת אפקט על קישורים שנמצאים במצב פוקוס"
+
+#: inc/acp_panel.php:204
+msgid "Force underline for links."
+msgstr "הוספת קו תחתון לכל הקישורים"
+
+#: inc/acp_panel.php:212
+msgid "Contrast"
+msgstr "ניגודיות"
+
+#: inc/acp_panel.php:216
+msgid ""
+"Use your own elements with the Contrast modes (you can add CSS classes & "
+"ID's), separate elements with comma."
+msgstr ""
+"השפע עם הניגודיות על אלמנטים בבחירה אישית (ניתן להשפיע על אלמנטים באמצעות "
+"קלאסים ו-ID‪’‬s), נא להפריד אלמנטים באמצעות פסיק."
+
+#: inc/acp_panel.php:219
+msgid ""
+"Add here your custom elements Classes & ID's, no need to write the BODY tag "
+"(don't forget to separate elements with comma)"
+msgstr ""
+"נא להזין לכאן את האלמנטים שברצונך להשפיע עליהם, ניתן להזין את מזהה ה-CSS של "
+"האלמנט, אין צורך להוסיף את התגית body (לא לשכוח להפריד אלמנטים באמצעות פסיק)."
+
+#: inc/acp_panel.php:222
+msgid "Bright Contrast"
+msgstr "ניגודיות בהירה"
+
+#: inc/acp_panel.php:225
+msgid "Don't use any style for the Bright option."
+msgstr "אל תשתמש בהגדרות עיצוב עבור ניגודיות בהירה"
+
+#: inc/acp_panel.php:229
+msgid "Use custom colors for the Bright option."
+msgstr "השתמש בצבעים מותאמים אישית עבור הניגודיות הבהירה"
+
+#: inc/acp_panel.php:234
+msgid "Custom Color for the Background of the Bright option."
+msgstr "צבע רקע מותאם עבור ניגודיות בהירה"
+
+#: inc/acp_panel.php:238
+msgid "Custom Color for the Text of the Bright option."
+msgstr "צבע טקסט מותאם עבור ניגודיות בהירה"
+
+#: inc/acp_panel.php:242
+msgid "Custom Color for the Link of the Bright option."
+msgstr "צבע קישור מותאם אישית עבור ניגודיות בהירה"
+
+#: inc/acp_panel.php:246
+msgid "Custom Color for the Link of the Bright option in hover & focus modes."
+msgstr "צבע קישור מותאם אישית בעת מעבר הסמן ובמצב פוקוס עבור ניגודיות כהה"
+
+#: inc/acp_panel.php:251
+msgid "Dark Contrast"
+msgstr "ניגודיות כהה"
+
+#: inc/acp_panel.php:254
+msgid "Don't use any style for the Dark option."
+msgstr "אל תשתמש בהגדרות עיצוב עבור ניגודיות כהה"
+
+#: inc/acp_panel.php:258
+msgid "Use custom colors for the Dark option."
+msgstr "השתמש בצבעים מותאמים אישית עבור הניגודיות הכהה"
+
+#: inc/acp_panel.php:263
+msgid "Custom Color for the Background in the Dark option."
+msgstr "צבע רקע מותאם עבור ניגודיות כהה"
+
+#: inc/acp_panel.php:267
+msgid "Custom Color for the Text in the Dark option."
+msgstr "צבע טקסט מותאם עבור ניגודיות כהה"
+
+#: inc/acp_panel.php:271
+msgid "Custom Color for the Link of the Dark option."
+msgstr "צבע קישור מותאם עבור ניגודיות כהה"
+
+#: inc/acp_panel.php:275
+msgid "Custom Color for the Link of the Dark option in hover & focus modes."
+msgstr "צבע קישור מותאם אישית בעת מעבר הסמן ובמצב פוקוס עבור ניגודיות בהירה"
+
+#: inc/acp_panel.php:284
+msgid "Font Sizer"
+msgstr "משנה גודל גופן"
+
+#: inc/acp_panel.php:289
+msgid "Use custom tags, classes & id's with the Font sizer."
+msgstr "השפע על תגיות, קלאסים ו-ID‪’‬s מותאמים אישית"
+
+#: inc/acp_panel.php:292
+msgid ""
+"Write your custom tags, classes & id's for the Font sizer. separate items "
+"with a comma."
+msgstr ""
+"כאן ניתן להוסיף תגיות, קלאסים ו-ID‪’‬s מותאמים אישית עבור משנה גודל הגופן. יש "
+"להפריד בין הפריטים באמצעות פסיק"
+
+#: inc/acp_panel.php:297
+msgid "Set the change of the font sizers in pixels"
+msgstr "הגדר את השינוי של גודל הגופן בפיקסלים"
+
+#: inc/acp_panel.php:301
+msgid "Set the minimum font-size for the decrement font-size button"
+msgstr "הגדר את הגודל המינימלי שמשנה גודל הגופן יגיע אליו"
+
+#: inc/acp_panel.php:305
+msgid "Set the maximum font-size for the increment font-size button."
+msgstr "הגדר את הגודל המקסימלי שמשנה גודל הגופן יגיע אליו"
+
+#: inc/acp_panel.php:315
+msgid "Toolbar"
+msgstr "סרגל נגישות"
+
+#: inc/acp_panel.php:320
+msgid "Display the Toolbar"
+msgstr "הצג את תפריט כלי הנגישות"
+
+#: inc/acp_panel.php:329
+msgid "Disable toolbar for Mobile users"
+msgstr "ביטול תפריט כלי הנגישות עבור משתמשי סמארטפונים וטאבלטים"
+
+#: inc/acp_panel.php:334
+msgid "Disable toolbar buttons animation"
+msgstr "ביטול אנימציות לחצני תפריט כלי הנגישות"
+
+#: inc/acp_panel.php:339
+msgid "Add feedback button"
+msgstr "הוספת לחצן פידבק"
+
+#: inc/acp_panel.php:343 inc/acp_panel.php:357
+msgid "Write here the text that will be on the link"
+msgstr "נא לכתוב כאן את המלל שיופיע על גבי הלחצן"
+
+#: inc/acp_panel.php:347 inc/acp_panel.php:361
+msgid "Write here the URL address for the link"
+msgstr "נא לכתוב כאן את כתובת ה-url שאליה ינותב הגולש לאחר שילחץ על הלחצן"
+
+#: inc/acp_panel.php:353
+msgid "Add Accessibility declaration button"
+msgstr "הוספת לחצן הצהרת נגישות"
+
+#: inc/acp_panel.php:368
+msgid "Hide the font-size buttons from the toolbar"
+msgstr "הסתרת לחצני משנה גודל הגופן מתפריט כלי הנגישות"
+
+#: inc/acp_panel.php:373
+msgid "Hide the contrast buttons from the toolbar"
+msgstr "הסתרת לחצני הניגודיות מתפריט כלי הנגישות"
+
+#: inc/acp_panel.php:377
+msgid "Hide the Keyboard Navigation button from toolbar"
+msgstr "הסתרת לחצן ניווט המקלדת מתפריט כלי הנגישות"
+
+#: inc/acp_panel.php:381
+msgid "Hide the Links underline button from toolbar"
+msgstr "הסתרת לחצן הוספת קו תחתי לקישורים מתפריט כלי הנגישות"
+
+#: inc/acp_panel.php:385
+msgid "Hide the \"Readable font\" button from toolbar"
+msgstr "הסתרת לחצן הפיכת הגופן לגופן קריא מתפריט כלי הנגישות"
+
+#: inc/acp_panel.php:388
+msgid "Appearance"
+msgstr "תצוגה"
+
+#: inc/acp_panel.php:391
+msgid "Toolbar Side"
+msgstr "צד סרגל הנגישות"
+
+#: inc/acp_panel.php:393 inc/acp_panel.php:436
+msgid "Left"
+msgstr "שמאל"
+
+#: inc/acp_panel.php:394 inc/acp_panel.php:437
+msgid "Right"
+msgstr "ימין"
+
+#: inc/acp_panel.php:398
+msgid "Icon position"
+msgstr "מיקום האייקון"
+
+#: inc/acp_panel.php:400
+msgid "Top"
+msgstr "למעלה"
+
+#: inc/acp_panel.php:401
+msgid "Middle"
+msgstr "באמצע"
+
+#: inc/acp_panel.php:402
+msgid "Bottom"
+msgstr "למטה"
+
+#: inc/acp_panel.php:406
+msgid "Icon size (default is medium)"
+msgstr "גודל האייקון"
+
+#: inc/acp_panel.php:408
+msgid "Small"
+msgstr "מוקטן"
+
+#: inc/acp_panel.php:409
+msgid "Medium"
+msgstr "רגיל"
+
+#: inc/acp_panel.php:421 inc/acp_skiplinks.php:6
+msgid "Skiplinks"
+msgstr "קישורי דילוג (Skiplinks)"
+
+#: inc/acp_panel.php:423
+msgid ""
+"Skiplinks are links which aid navigation around the current page. the user "
+"who navigate with skiplinks do it with the Tab button."
+msgstr ""
+"קישורי דילוג מאפשרים לאדם המנווט באמצעות המקלדת לדלג למקומות מרכזיים בעמוד, "
+"כמו התפריט הראשי, התוכן הראשי וכד׳. הגולש מגיע אל קישורי הניווט באמצעות הלחצן "
+"Tab"
+
+#: inc/acp_panel.php:424
+msgid ""
+"Before you activate the skiplinks, you should check if your theme has already "
+"got Skiplinks (you can check it by pressing the Tab button when you first "
+"land on a page, the Skiplinks need to be the first links that will be focused "
+"to a keyboard user)."
+msgstr ""
+"לפני הפעלת קישורי הדילוג יש לבדוק שהתבנית בה את/ה משתמש/ת אינה מכילה קישורי "
+"דילוג בעצמה. ניתן לעשות באמצעות מספר לחיצות על לחצן ה-Tab בעת נחיתה באחד "
+"העמודים, קישורים הדילוג אמורים להופיע בלחיצות הראשונות על מקש זה."
+
+#: inc/acp_panel.php:427
+msgid "Enable Skiplinks"
+msgstr "הפעלת קישורי דילוג"
+
+#: inc/acp_panel.php:431
+msgid ""
+"After activating this option a new menu will be registered with your built-in "
+"\"Menus\" of WP. You then will need to create custom menu and add to it "
+"\"Links\" that points to the area you want to target to, for example if the "
+"Name of the Skiplink is: \"Skip to Content\", so the value of the link will "
+"probably be \"#content\"."
+msgstr ""
+"לאחר הפעלת קישורי הדילוג יווצר תפריט חדש בעמוד התפריטים של וורדפרס, לתפריט זה "
+"יש להוסיף את קישורי הדילוג ע״י הוספת קישור מותאם אישית שהערך אליו הוא מפנה "
+"הוא ה-ID של האלמנט שאליו הגולש ידלג. לדוגמה: אם ברצונך להוסיף קישור דילוג "
+"לתפריט הראשי, עליך לבדוק את ה-id של התפריט הראשי ולהוסיף אותו כקישור מותאם "
+"אישית לתפריט קישורי הדילוג עם הסימן ‪#‬ בהתחלה."
+
+#: inc/acp_panel.php:433
+msgid "Skiplinks Side"
+msgstr "מיקום קישורי הדילוג"
+
+#: inc/acp_panel.php:435
+msgid "Center (default)"
+msgstr "מרכז"
+
+#: inc/acp_panel.php:442
+msgid "Use different links for Home page"
+msgstr "השתמש בקישורי דילוג ייחודיים עבור דף הבית"
+
+#: inc/acp_panel.php:443
+msgid ""
+"This option will add another menu to your built-in WP Menus there you should "
+"set the permalinks for your Home page."
+msgstr "אפשרות זו מוסיפה תפריט קישורים נוסף עבור קישורי הדילוג שיופיעו בדף הבית"
+
+#: inc/acp_panel.php:447
+msgid "Use your own style for the skiplinks"
+msgstr "השתמש בהגדרות עיצוב מותאמות אישית עבור קישורי הדילוג"
+
+#: inc/acp_panel.php:450
+msgid "Background color"
+msgstr "צבע הרקע"
+
+#: inc/acp_panel.php:454
+msgid "Link color"
+msgstr "צבע הקישור"
+
+#: inc/acp_panel.php:471
+msgid "Contact the author"
+msgstr "יצירת קשר עם יוצר התוסף"
+
+#: inc/acp_skiplinks.php:11
+msgid "Homepage Skiplinks"
+msgstr "קישורי דילוג עבור דף הבית"
+
+#: inc/acp_toolbar.php:25
+msgid "Accessibility"
+msgstr "נגישות"
+
+#: inc/acp_toolbar.php:29
+msgid "Accessibility Toolbar"
+msgstr "כלי נגישות"
+
+#: inc/acp_toolbar.php:35
+msgid "Decrease font size"
+msgstr "הקטנת גודל הגופן"
+
+#: inc/acp_toolbar.php:39
+msgid "Increase font size"
+msgstr "הגדלת גודל הגופן"
+
+#: inc/acp_toolbar.php:43
+msgid "Default font sizes"
+msgstr "חזרה לגודל מקורי"
+
+#: inc/acp_toolbar.php:52
+msgid "Dark contrast"
+msgstr "ניגודיות כהה"
+
+#: inc/acp_toolbar.php:56
+msgid "Bright contrast"
+msgstr "ניגודיות בהירה"
+
+#: inc/acp_toolbar.php:60
+msgid "Grayscale"
+msgstr "שחור-לבן"
+
+#: inc/acp_toolbar.php:64
+msgid "Reset contrast"
+msgstr "איפוס הניגודיות"
+
+#: inc/acp_toolbar.php:73
+msgid "Keyboard Navigation"
+msgstr "ניווט מקלדת"
+
+#: inc/acp_toolbar.php:83
+msgid "Readable font"
+msgstr "פונט קריא"
+
+#: inc/acp_toolbar.php:90
+msgid "Toggle underline"
+msgstr "קו תחתון לקישורים"
+
+#: inc/acp_toolbar.php:109
+msgid "Feedback"
+msgstr "משוב"
+
+#: inc/acp_toolbar.php:126
+msgid "Accessibility Declaration"
+msgstr "הצהרת נגישות"
+
+#: inc/acp_toolbar.php:135
+msgid "Link to the plugin page"
+msgstr "קישור לעמוד התוסף"
+
+#~ msgid "Welcome to Accessible Poetry!"
+#~ msgstr "ברוכים הבאים ל-accessible Poetry"
+
+#~ msgid "Version"
+#~ msgstr "גרסה"
+
+#~ msgid ""
+#~ "Here you will find options to perform a better accessibility WordPress "
+#~ "website."
+#~ msgstr ""
+#~ "תוסף זה מעניק מבחר אפשרויות לשיפור נגישות אתר האינטרנט. התוסף אינו מהווה "
+#~ "תחליף להנגשת אתר כחלק מהחוק הנגישות בישראל, אך פותר חלק נכבד מהמתבקש."
+
+#~ msgid "This plugin is provided by"
+#~ msgstr "תוסף זה מופעל ע״י"
+
+#~ msgid "Amit Moreno"
+#~ msgstr "עמית מורנו"
+
+#~ msgid "Please visit our"
+#~ msgstr "בקר/י ב"
+
+#~ msgid "Go to our Plugin Page"
+#~ msgstr "עבור לעמוד התוסף"
+
+#~ msgid "and "
+#~ msgstr "ו"
+
+#~ msgid "Rate Us on our Plugin Page"
+#~ msgstr "דרגו את התוסף"
+
+#~ msgid "Disable toolbar buttons animation."
+#~ msgstr "בטל את ההנפשה של כפתורי סרגל הנגישות"
+
+#~ msgid "Disable toolbar for Mobile users."
+#~ msgstr "בטל את סרגל הנגישות עבור משתמשי טלפונים ניידים"
+
+#~ msgid "Add feedback button."
+#~ msgstr "הוספת לחצן עבור השארת משוב"
+
+#~ msgid "Write here the text that will be on the link."
+#~ msgstr "שינוי מלל הלחצן"
+
+#~ msgid "Write here the URL address for the link."
+#~ msgstr "נא להזין כתובת קישור שאליה יופנה הגולש שילחץ על לחצן המשוב"
+
+#~ msgid "Add Accessibility declaration button."
+#~ msgstr "הוספת לחצן עבור הצהרת נגישות"
+
+#~ msgid "Hide the font-size buttons from the toolbar."
+#~ msgstr "הסתרת לחצני שינוי גודל הגופן מסרגל הנגישות"
+
+#~ msgid "Hide the contrast buttons from the toolbar."
+#~ msgstr "הסתרת לחצני שינוי הניגודיות מסרגל הנגישות"
+
+#~ msgid "Hide the Keyboard Navigation button from toolbar."
+#~ msgstr "הסתרת לחצן הניווט באמצעות מקלדת מסרגל הנגישות"
+
+#~ msgid "Hide the Links underline button from toolbar."
+#~ msgstr "הסתרת הלחצן להוספה או הסרה של קו תחתון מקישורים מסרגל הנגישות"
+
+#~ msgid "Hide the \"Readable font\" button from toolbar."
+#~ msgstr "הסתר את הלחצן ״פונט קריא״ מסרגל הנגישות."
+
+#~ msgid "Set the change of the font sizers in pixels."
+#~ msgstr "הגדרת גודל הקפיצה בפיקסלים בעת הקטנה או הגדלה של גודל הגופן"
+
+#~ msgid ""
+#~ "Affect additional elements with the contrast (separate elements with comma)"
+#~ msgstr ""
+#~ "הוספת אלמנטים שעליהם תשפיע הניגודיות, ניתן להוסיף תגיות html, קלאסים ו-"
+#~ "ID‪’‬s של אלמנטים (נא להפריד אלמנטים באמצעות פסיק)"
+
+#~ msgid "Affect on all the elements in Bright contrast mode."
+#~ msgstr "השפע על כל האלמנטים שבאתר במצב ניגודיות בהירה"
+
+#~ msgid "Affect on all the elements in Dark contrast mode."
+#~ msgstr "השפע על כל האלמנטים שבאתר במצב ניגודיות כהה"
+
+#~ msgid "Disable link underline"
+#~ msgstr "ביטול הקו התחתון מתחת לקישור"

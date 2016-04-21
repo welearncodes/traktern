@@ -4,7 +4,7 @@
         
 <?php include('impress-html/02-agenda.html'); ?>
 
-<?php //include('impress-html/03-status.html'); ?>
+<?php include('impress-html/03-status.html'); ?>
 
 <?php include('impress-html/04-sikkerhet.html'); ?>
 

@@ -1,0 +1,49 @@
+<style>
+    .hidden {
+        display: none;
+    };
+</style>
+<button onclick="toggle('storgata');">Storgata</button>
+
+<h1 onclick="toggle('sjosiden');">Sjøsiden</h1>
+<button onclick="toggle('kjellern');">Kjellern</button>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/classlist/2014.01.31/classList.min.js"></script>
+<script>
+    function toggle(element){
+        var meny = document.getElementById(element);
+        meny.classList.toggle('hidden');
+    };
+</script>
+
+
+
+<div class="hidden" id="storgata">
+    <h2>Storgata</h2>
+    <a onclick="toggle('storgata-drikke');">Drikke</a>
+    <div class="hidden" id="storgata-drikke" >
+    <hr> [product_category category="storgata" category="drikke" orderby="product_attribute" order="asc"]
+    </div>
+    
+     <a onclick="toggle('storgata-mat'):">Mat</a>
+       
+    <div class="hidden" id="storgata-mat">
+        <hr> [product_category category="storgata" category="mat" orderby="product_attribute" order="asc"]
+    </div>
+</div>
+
+<div class="hidden" id="sjosiden">
+    <h2>Sjøsiden</h2>
+    <h3>Drikke</h3>
+    <hr> [product_category category="sjøsiden" category="drikke" orderby="product_attribute" order="asc"]
+    <h3>Mat</h3>
+    <hr> [product_category category="sjøsiden" category="mat" orderby="product_attribute" order="asc"]
+</div>
+
+<div class="hidden" id="kjellern">
+    <h2>Kjellern</h2>
+    <h3>Kald drikke</h3>
+    <hr> [product_category category="kjellern" category="drikke" orderby="product_attribute" order="asc"]
+    <h3>Mat</h3>
+    <hr> [product_category category="kjellern" category="mat" orderby="product_attribute" order="asc
+</div>
